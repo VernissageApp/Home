@@ -1,4 +1,6 @@
 {
+  "instructionsUrl": "https://pixelfed.org/how-to-join",
+  "serversUrl": "https://pixelfed.org/servers",
   "instances": [
     "https://pixelfed.de",
     "https://pixelfed.social",
