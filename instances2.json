@@ -1,0 +1,1804 @@
+{
+  "instructionsUrl" : "https://pixelfed.org/how-to-join",
+  "instances" : [
+    {
+      "description" : "Pixelfed is an image sharing platform, an ethical alternative to centralized platforms.",
+      "rules" : [
+        {
+          "id" : "1",
+          "text" : "No harrasment, no stalking, no doxxing"
+        },
+        {
+          "id" : "2",
+          "text" : "No racism or relativization of racism."
+        },
+        {
+          "id" : "3",
+          "text" : "No sexism or relativization of sexism."
+        },
+        {
+          "id" : "4",
+          "text" : "No xenophobia or relativization of xenophobia."
+        },
+        {
+          "id" : "5",
+          "text" : "No discriminating against gender identities or sexual orientations, or relativizing them."
+        },
+        {
+          "id" : "6",
+          "text" : "No advertising."
+        },
+        {
+          "id" : "7",
+          "text" : "No intentionally misleading content (including new/alt-right conspiracy theories or scams like cryptocurrencies)."
+        },
+        {
+          "id" : "8",
+          "text" : "No content that violates the laws of the Federal Republic of Germany."
+        }
+      ],
+      "stats" : {
+        "domain_count" : 8626,
+        "user_count" : 23118,
+        "status_count" : 987529
+      },
+      "version" : "2.7.2 (compatible; Pixelfed 0.11.5)",
+      "uri" : "pixelfed.de",
+      "short_description" : "A welcoming instance for all",
+      "languages" : [
+        "en"
+      ],
+      "approval_required" : false,
+      "title" : "pixelfed.de",
+      "thumbnail" : "https://raw.githubusercontent.com/VernissageApp/Home/main/thumbnails/a47b0ee0-9919-4256-8baf-cbbd9e63a9a9.jpg",
+      "contact_account" : {
+        "id" : "1",
+        "followers_count" : 117,
+        "acct" : "tercean",
+        "avatar_static" : "https://pixelfed.de/storage/avatars/000/000/000/001/SwMvRbXMOqce829qA28p_avatar.png?v=2",
+        "discoverable" : true,
+        "created_at" : "2018-06-18T14:31:08.000000Z",
+        "following_count" : 6,
+        "url" : "https://pixelfed.de/tercean",
+        "statuses_count" : 11,
+        "avatar" : "https://pixelfed.de/storage/avatars/000/000/000/001/SwMvRbXMOqce829qA28p_avatar.png?v=2",
+        "header" : "https://pixelfed.de/storage/headers/missing.png",
+        "display_name" : "hansenerd",
+        "locked" : false,
+        "username" : "tercean",
+        "group" : false,
+        "bot" : false,
+        "header_static" : "https://pixelfed.de/storage/headers/missing.png"
+      },
+      "email" : "tercean@pixelfed.de",
+      "registrations" : true
+    },
+    {
+      "description" : "The original Pixelfed instance, operated by the main developer @dansup",
+      "rules" : [
+        {
+          "id" : "1",
+          "text" : "Sexually explicit or violent media must be marked as sensitive when posting"
+        },
+        {
+          "id" : "2",
+          "text" : "No racism, sexism, homophobia, transphobia, xenophobia, or casteism"
+        },
+        {
+          "id" : "3",
+          "text" : "No incitement of violence or promotion of violent ideologies"
+        },
+        {
+          "id" : "4",
+          "text" : "No harassment, dogpiling or doxxing of other users"
+        },
+        {
+          "id" : "5",
+          "text" : "No content illegal in United States"
+        }
+      ],
+      "stats" : {
+        "domain_count" : 14492,
+        "user_count" : 75423,
+        "status_count" : 2155056
+      },
+      "version" : "2.7.2 (compatible; Pixelfed 0.11.5)",
+      "uri" : "pixelfed.social",
+      "short_description" : "The original Pixelfed instance, operated by the main developer @dansup",
+      "languages" : [
+        "en"
+      ],
+      "approval_required" : false,
+      "title" : "pixelfed",
+      "thumbnail" : "https://raw.githubusercontent.com/VernissageApp/Home/main/thumbnails/67e09ba8-510a-4abf-a60e-41e9eff5ce8e.jpg",
+      "contact_account" : {
+        "id" : "1",
+        "followers_count" : 459,
+        "acct" : "admin",
+        "avatar_static" : "https://pixelfed.social/storage/avatars/000/000/000/001/LSHNCgwbby7wu3iCYV6H_avatar.png?v=4",
+        "discoverable" : true,
+        "created_at" : "2018-06-01T03:54:08.000000Z",
+        "following_count" : 2,
+        "url" : "https://pixelfed.social/admin",
+        "statuses_count" : 7,
+        "avatar" : "https://pixelfed.social/storage/avatars/000/000/000/001/LSHNCgwbby7wu3iCYV6H_avatar.png?v=4",
+        "header" : "https://pixelfed.social/storage/headers/missing.png",
+        "display_name" : "Admin",
+        "locked" : false,
+        "username" : "admin",
+        "group" : false,
+        "bot" : false,
+        "header_static" : "https://pixelfed.social/storage/headers/missing.png"
+      },
+      "email" : "hello@pixelfed.org",
+      "registrations" : false
+    },
+    {
+      "description" : "Pxlmo is an image sharing platform, an ethical alternative to centralized platforms.",
+      "rules" : [
+        {
+          "id" : "1",
+          "text" : "Respect each other and have fun in our community"
+        },
+        {
+          "id" : "2",
+          "text" : "Please keep links in your profile, not in posts to avoid being marked as spam"
+        },
+        {
+          "id" : "3",
+          "text" : "Keeping this simple. If you must read terms and privacy, please visit respective links"
+        }
+      ],
+      "stats" : {
+        "domain_count" : 7553,
+        "user_count" : 5100,
+        "status_count" : 51268
+      },
+      "version" : "2.7.2 (compatible; Pixelfed 0.11.5)",
+      "uri" : "pxlmo.com",
+      "short_description" : "Pxlmo is an image sharing platform, an ethical alternative to centralized platforms.",
+      "languages" : [
+        "en"
+      ],
+      "approval_required" : false,
+      "title" : "Pxlmo",
+      "thumbnail" : "https://raw.githubusercontent.com/VernissageApp/Home/main/thumbnails/ffc3f84b-f6c9-434c-bc4f-c1e67650ea81.jpg",
+      "contact_account" : {
+        "id" : "1",
+        "followers_count" : 2794,
+        "acct" : "pxlmo",
+        "avatar_static" : "https://assets.pxlmo.com/cache/avatars/1/avatar_uzkrbd.jpg",
+        "discoverable" : true,
+        "created_at" : "2019-06-05T06:40:49.000000Z",
+        "following_count" : 14,
+        "url" : "https://pxlmo.com/pxlmo",
+        "statuses_count" : 10,
+        "avatar" : "https://assets.pxlmo.com/cache/avatars/1/avatar_uzkrbd.jpg",
+        "header" : "https://pxlmo.com/storage/headers/missing.png",
+        "display_name" : "pxlmo",
+        "locked" : false,
+        "username" : "pxlmo",
+        "group" : false,
+        "bot" : false,
+        "header_static" : "https://pxlmo.com/storage/headers/missing.png"
+      },
+      "registrations" : true
+    },
+    {
+      "description" : "Create. Share. Discover.\r\nCollect. Follow. Explore.\r\nCurate. Comment. Like.",
+      "rules" : [
+        {
+          "id" : "1",
+          "text" : "Add the NSFW flag to media containing sex or violence."
+        },
+        {
+          "id" : "2",
+          "text" : "We do not accept content illegal in Canada, Germany and/or France, such as holocaust denial or Nazi symbolism."
+        },
+        {
+          "id" : "3",
+          "text" : "Sexual depictions of children is not allowed."
+        },
+        {
+          "id" : "4",
+          "text" : "We do not accept racism, sexism, discrimination against gender and sexual minorities, or xenophobia and/or nationalism."
+        },
+        {
+          "id" : "5",
+          "text" : "We do not accept TERFS and your Freedom of Speech is no permission for you to insult other people or to violate their rights."
+        },
+        {
+          "id" : "6",
+          "text" : "No NFT content. None at all."
+        },
+        {
+          "id" : "7",
+          "text" : "Contact: https://mastodon.social/@metapixl or mail hello@metapixl.com"
+        }
+      ],
+      "stats" : {
+        "domain_count" : 4515,
+        "user_count" : 3047,
+        "status_count" : 207471
+      },
+      "version" : "2.7.2 (compatible; Pixelfed 0.11.5)",
+      "uri" : "metapixl.com",
+      "short_description" : "Metapixl.com a general purpose Pixelfed instance.",
+      "languages" : [
+        "en"
+      ],
+      "approval_required" : false,
+      "title" : "Metapixl",
+      "thumbnail" : "https://raw.githubusercontent.com/VernissageApp/Home/main/thumbnails/264f045f-7483-45e8-abba-bb607d4b199b.jpg",
+      "contact_account" : {
+        "id" : "1",
+        "followers_count" : 479,
+        "acct" : "andre",
+        "avatar_static" : "https://metapixl.com/storage/avatars/000/000/000/001/AM41PujfzNdnoDxIhw7I_avatar.png?v=4",
+        "discoverable" : true,
+        "created_at" : "2018-12-28T22:47:27.000000Z",
+        "following_count" : 132,
+        "url" : "https://metapixl.com/andre",
+        "statuses_count" : 437,
+        "avatar" : "https://metapixl.com/storage/avatars/000/000/000/001/AM41PujfzNdnoDxIhw7I_avatar.png?v=4",
+        "header" : "https://metapixl.com/storage/headers/missing.png",
+        "display_name" : "André Dierker",
+        "locked" : false,
+        "username" : "andre",
+        "group" : false,
+        "bot" : false,
+        "header_static" : "https://metapixl.com/storage/headers/missing.png"
+      },
+      "email" : "hello@metapixl.com",
+      "registrations" : true
+    },
+    {
+      "description" : "Pixey is an image sharing platform, an ethical alternative to centralized platforms build with ActivityPub that gives you a place in the Fediverse(Federated Universe).",
+      "rules" : [
+        {
+          "id" : "1",
+          "text" : "Sexually explicit or violent media must be marked as sensitive when posting."
+        },
+        {
+          "id" : "2",
+          "text" : "No racism, sexism, homophobia, transphobia, xenophobia, or casteism."
+        },
+        {
+          "id" : "3",
+          "text" : "No incitement of violence or promotion of violent ideologies."
+        },
+        {
+          "id" : "4",
+          "text" : "No illegal content."
+        }
+      ],
+      "stats" : {
+        "domain_count" : 6899,
+        "user_count" : 2954,
+        "status_count" : 219923
+      },
+      "version" : "2.7.2 (compatible; Pixelfed 0.11.4)",
+      "uri" : "pixey.org",
+      "short_description" : "Pixey is an image sharing platform, an ethical alternative to centralized platforms build with ActivityPub!",
+      "languages" : [
+        "en"
+      ],
+      "approval_required" : false,
+      "title" : "Pixey",
+      "thumbnail" : "https://raw.githubusercontent.com/VernissageApp/Home/main/thumbnails/3903fff9-0ca8-4feb-a9e2-97dda604861e.jpg",
+      "contact_account" : {
+        "id" : "310954841847500800",
+        "followers_count" : 2317,
+        "acct" : "stux",
+        "avatar_static" : "https://pixey.org/storage/avatars/031/095/484/184/750/080/0/Tm0ZAIX5PzEMnQu8LKiD_avatar.jpg?v=2",
+        "discoverable" : true,
+        "created_at" : "2021-06-17T01:43:31.000000Z",
+        "following_count" : 540,
+        "url" : "https://pixey.org/stux",
+        "statuses_count" : 139,
+        "avatar" : "https://pixey.org/storage/avatars/031/095/484/184/750/080/0/Tm0ZAIX5PzEMnQu8LKiD_avatar.jpg?v=2",
+        "header" : "https://pixey.org/storage/headers/missing.png",
+        "display_name" : "sтυx⚡",
+        "locked" : false,
+        "username" : "stux",
+        "group" : false,
+        "bot" : false,
+        "header_static" : "https://pixey.org/storage/headers/missing.png"
+      },
+      "email" : "info@pixey.org",
+      "registrations" : true
+    },
+    {
+      "description" : "Pixelfed is an image sharing platform, an ethical alternative to centralized platforms.",
+      "rules" : [
+        {
+          "id" : "1",
+          "text" : "Be nice to each other"
+        },
+        {
+          "id" : "2",
+          "text" : "Do not publish advertisement"
+        },
+        {
+          "id" : "3",
+          "text" : "Do not publish conspiracy myths"
+        },
+        {
+          "id" : "4",
+          "text" : "Do not publish content illegal in Germany and/or France, such as holocaust denial or Nazi symbolism"
+        },
+        {
+          "id" : "5",
+          "text" : "Do not publish content promoting the ideology of National Socialism"
+        },
+        {
+          "id" : "6",
+          "text" : "Do not publish content that is hateful towards specific individuals or groups, or intended to cause or incite harm"
+        },
+        {
+          "id" : "7",
+          "text" : "For a very very detailed CoC, use the one of social.tchncs.de as reference: https://social.tchncs.de/about/more"
+        }
+      ],
+      "stats" : {
+        "domain_count" : 3948,
+        "user_count" : 1911,
+        "status_count" : 99229
+      },
+      "version" : "2.7.2 (compatible; Pixelfed 0.11.5)",
+      "uri" : "pixel.tchncs.de",
+      "short_description" : "Pixelfed is an image sharing platform, an ethical alternative to centralized platforms.",
+      "languages" : [
+        "en"
+      ],
+      "approval_required" : false,
+      "title" : "Pixelfed",
+      "thumbnail" : "https://raw.githubusercontent.com/VernissageApp/Home/main/thumbnails/6a82aef7-7531-4c0d-868c-0d22e2536509.jpg",
+      "contact_account" : {
+        "id" : "188626951592873984",
+        "followers_count" : 398,
+        "acct" : "milan",
+        "avatar_static" : "https://pixel.tchncs.de/storage/avatars/018/862/695/159/287/398/4/xkFjmoCjClXqG8p4WHlx_avatar.jpeg?v=11",
+        "discoverable" : true,
+        "created_at" : "2020-07-14T12:16:09.000000Z",
+        "following_count" : 76,
+        "url" : "https://pixel.tchncs.de/milan",
+        "statuses_count" : 134,
+        "avatar" : "https://pixel.tchncs.de/storage/avatars/018/862/695/159/287/398/4/xkFjmoCjClXqG8p4WHlx_avatar.jpeg?v=11",
+        "header" : "https://pixel.tchncs.de/storage/headers/missing.png",
+        "display_name" : "Pixel Milan",
+        "locked" : false,
+        "username" : "milan",
+        "group" : false,
+        "bot" : false,
+        "header_static" : "https://pixel.tchncs.de/storage/headers/missing.png"
+      },
+      "registrations" : true
+    },
+    {
+      "description" : "Pixelfed.Tokyoは東京にサーバーを置くPixefedサーバーです。自由でオープンなイメージシェアの場を広く提供する目的で維持・管理されています。\r\nPixelfed.Tokyo is a Pixelfed server located in Tokyo, Japan. It is maintained with the aim of providing a free and open forum for image sharing.",
+      "rules" : [
+        {
+          "id" : "1",
+          "text" : "pixelfed.tokyoでは日本および米国の法律に違反するコンテンツの投稿、違法行為を行うためのサービスの利用を禁止しています。"
+        },
+        {
+          "id" : "2",
+          "text" : "ウイルスなどの悪意のあるソフトウエアの配布などに当サービスを利用することを禁止します。フィッシング詐欺の目的でこのサービスを利用することを禁止します。"
+        },
+        {
+          "id" : "3",
+          "text" : "pixelfed.tokyoでは自由なコミュニケーションの場を提供していますが、悪意のある表現や差別的な発言は許可されません。"
+        },
+        {
+          "id" : "4",
+          "text" : "嫌がらせやいじめ、脅迫的な行為を禁止します。"
+        },
+        {
+          "id" : "5",
+          "text" : "虚偽の情報でユーザーを過剰に煽動する行為(フェイクニュースなど)を禁止します。"
+        },
+        {
+          "id" : "6",
+          "text" : "一般的に個人情報とされる情報(クレジットカード番号や顔写真、住所、本名、生年月日など)を本人の許可無く共有しないでください。"
+        },
+        {
+          "id" : "7",
+          "text" : "児童からの搾取、虐待に当てはまるコンテンツを共有することを固く禁止します。"
+        },
+        {
+          "id" : "8",
+          "text" : "児童ポルノ等を始めとした違法な性的コンテンツの共有はおやめください。"
+        },
+        {
+          "id" : "9",
+          "text" : "衝撃を与えること、世間を騒がせること、もしくは不当に不快感を与えることを主な目的とする暴力的または残虐なコンテンツを投稿することを禁止します。"
+        },
+        {
+          "id" : "10",
+          "text" : "他人または代表しない組織になりすましてコンテンツを共有することを禁止します。"
+        },
+        {
+          "id" : "11",
+          "text" : "pixelfed.tokyoは運営の許可無くスパム行為(当サービスの目的としない広告目的のみとみなされる画像/動画の共有)を行うことを認めていません。"
+        },
+        {
+          "id" : "12",
+          "text" : "ブロックやミュートなどの機能・アカウント停止などの運営によるモデレーション行為をかいくぐるためなど、悪意によってアカウントを複数作成することを禁止します。"
+        }
+      ],
+      "stats" : {
+        "domain_count" : 1857,
+        "user_count" : 2740,
+        "status_count" : 13158
+      },
+      "version" : "2.7.2 (compatible; Pixelfed 0.11.4)",
+      "uri" : "pixelfed.tokyo",
+      "short_description" : "Pixelfed.Tokyoは東京にサーバーを置くPixefedサーバーです。自由でオープンなイメージシェアの場を広く提供する目的で維持・管理されています。\r\nPixelfed.Tokyo is a Pixelfed server located in Tokyo, Japan. It is maintained with the aim of providing a free and open forum for image sharing.",
+      "languages" : [
+        "ja"
+      ],
+      "approval_required" : false,
+      "title" : "Pixelfed.Tokyo",
+      "contact_account" : {
+        "id" : "82128244433883136",
+        "followers_count" : 1716,
+        "acct" : "PixelfedTokyo",
+        "avatar_static" : "https://pixelfed.tokyo/storage/avatars/008/212/824/443/388/313/6/PiIWNcLGpqfOTVj4FnKu_avatar.jpeg?v=2",
+        "discoverable" : true,
+        "created_at" : "2019-09-24T15:08:19.000000Z",
+        "following_count" : 0,
+        "url" : "https://pixelfed.tokyo/PixelfedTokyo",
+        "statuses_count" : 2,
+        "avatar" : "https://pixelfed.tokyo/storage/avatars/008/212/824/443/388/313/6/PiIWNcLGpqfOTVj4FnKu_avatar.jpeg?v=2",
+        "header" : "https://pixelfed.tokyo/storage/headers/missing.png",
+        "display_name" : "Pixelfed.Tokyo",
+        "locked" : false,
+        "username" : "PixelfedTokyo",
+        "group" : false,
+        "bot" : false,
+        "header_static" : "https://pixelfed.tokyo/storage/headers/missing.png"
+      },
+      "email" : "y.maemura@pcgf.io",
+      "registrations" : true
+    },
+    {
+      "description" : "Pixelfed.fr est une plateforme de partage d'images et de vidéos généraliste. Activement modérée.",
+      "rules" : [
+        {
+          "id" : "1",
+          "text" : "Pas de diffusion des idées d’extrême droite"
+        },
+        {
+          "id" : "2",
+          "text" : "Pas de racisme"
+        },
+        {
+          "id" : "3",
+          "text" : "Pas de xénophobie en général"
+        },
+        {
+          "id" : "4",
+          "text" : "Pas de confusionnisme"
+        },
+        {
+          "id" : "5",
+          "text" : "Utilisation du CW pour la nudité ou la pornographie"
+        },
+        {
+          "id" : "6",
+          "text" : "Pas de spam"
+        },
+        {
+          "id" : "7",
+          "text" : "Principalement francophone"
+        },
+        {
+          "id" : "8",
+          "text" : "Discussions dans le respect des autres utilisateurs"
+        }
+      ],
+      "stats" : {
+        "domain_count" : 2352,
+        "user_count" : 1111,
+        "status_count" : 84498
+      },
+      "version" : "2.7.2 (compatible; Pixelfed 0.11.5)",
+      "uri" : "pixelfed.fr",
+      "short_description" : "Pixelfed est une plateforme de partage d'images et de vidéos, une alternative éthique aux plateformes centralisées.",
+      "languages" : [
+        "fr"
+      ],
+      "approval_required" : false,
+      "title" : "pixelfed",
+      "thumbnail" : "https://raw.githubusercontent.com/VernissageApp/Home/main/thumbnails/4bfddd2e-7511-4c38-ad04-fafb7b956376.jpg",
+      "contact_account" : {
+        "id" : "471041020038557697",
+        "followers_count" : 1219,
+        "acct" : "raph",
+        "avatar_static" : "https://pixelfed.fr/storage/avatars/047/104/102/003/855/769/7/1S1KXQLmNKh7RJf0B85A_avatar.jpg?v=5",
+        "discoverable" : true,
+        "created_at" : "2022-09-01T19:48:50.000000Z",
+        "following_count" : 86,
+        "url" : "https://pixelfed.fr/raph",
+        "statuses_count" : 40,
+        "avatar" : "https://pixelfed.fr/storage/avatars/047/104/102/003/855/769/7/1S1KXQLmNKh7RJf0B85A_avatar.jpg?v=5",
+        "header" : "https://pixelfed.fr/storage/headers/missing.png",
+        "display_name" : "𝐑𝐚𝐩𝐡",
+        "locked" : false,
+        "username" : "raph",
+        "group" : false,
+        "bot" : false,
+        "header_static" : "https://pixelfed.fr/storage/headers/missing.png"
+      },
+      "email" : "raphgilles@lilo.org",
+      "registrations" : true
+    },
+    {
+      "description" : "A Mastodon instance hosted in New Zealand. Made for kiwis and honorary kiwis home and abroad!\r\n\r\nRun by donations @ https://donate.fediservices.nz",
+      "rules" : [
+        {
+          "id" : "1",
+          "text" : "No racism, sexism, homophobia or transphobia"
+        },
+        {
+          "id" : "2",
+          "text" : "No incitement of violence or promotion of violent ideologies"
+        },
+        {
+          "id" : "3",
+          "text" : "No harassment or doxxing other users"
+        },
+        {
+          "id" : "4",
+          "text" : "Be kind to each other"
+        },
+        {
+          "id" : "5",
+          "text" : "Personal accounts only; No bots, Business, Commercial or Organisation accounts."
+        },
+        {
+          "id" : "6",
+          "text" : "Content hosted from pixelfed.nz (Any text/media) may not be reused without express permission"
+        },
+        {
+          "id" : "7",
+          "text" : "No NSFW Content"
+        },
+        {
+          "id" : "8",
+          "text" : "Must have some link to New Zealand. This is to try keep our Local timeline local #MadeInNZ."
+        }
+      ],
+      "stats" : {
+        "domain_count" : 1745,
+        "user_count" : 527,
+        "status_count" : 12646
+      },
+      "version" : "2.7.2 (compatible; Pixelfed 0.11.5)",
+      "uri" : "pixelfed.nz",
+      "short_description" : "A Pixelfed instance hosted in New Zealand. Made for kiwis and honorary kiwis home and abroad!",
+      "languages" : [
+        "en"
+      ],
+      "approval_required" : false,
+      "title" : "pixelfed.nz",
+      "thumbnail" : "https://raw.githubusercontent.com/VernissageApp/Home/main/thumbnails/304674ac-b19f-4e2d-9b48-e099c33a955a.png",
+      "contact_account" : {
+        "id" : "426966549940810679",
+        "followers_count" : 88,
+        "acct" : "explorergrace",
+        "avatar_static" : "https://pixelfed.nz/storage/avatars/042/696/654/994/081/067/9/bYBzvFFBwYtHQPXpaLxO_avatar.jpg?v=4",
+        "discoverable" : true,
+        "created_at" : "2022-05-03T04:52:38.000000Z",
+        "following_count" : 31,
+        "url" : "https://pixelfed.nz/explorergrace",
+        "statuses_count" : 53,
+        "avatar" : "https://pixelfed.nz/storage/avatars/042/696/654/994/081/067/9/bYBzvFFBwYtHQPXpaLxO_avatar.jpg?v=4",
+        "header" : "https://pixelfed.nz/storage/headers/missing.png",
+        "display_name" : "Grace",
+        "locked" : false,
+        "username" : "explorergrace",
+        "group" : false,
+        "bot" : false,
+        "header_static" : "https://pixelfed.nz/storage/headers/missing.png"
+      },
+      "registrations" : true
+    },
+    {
+      "description" : "Pixelfed is an image sharing platform, an ethical alternative to centralized platforms.",
+      "rules" : [
+        {
+          "id" : "1",
+          "text" : "No advertising."
+        },
+        {
+          "id" : "2",
+          "text" : "No racism, sexism, homophobia or transphobia."
+        },
+        {
+          "id" : "3",
+          "text" : "No harassment, dogpiling or doxxing of other users."
+        },
+        {
+          "id" : "4",
+          "text" : "Sexually explicit or violent media must be marked as sensitive when posting."
+        }
+      ],
+      "stats" : {
+        "domain_count" : 2143,
+        "user_count" : 603,
+        "status_count" : 51958
+      },
+      "version" : "2.7.2 (compatible; Pixelfed 0.11.5)",
+      "uri" : "pixelfed.au",
+      "short_description" : "Pixelfed is an image sharing platform, an ethical alternative to centralized platforms.",
+      "languages" : [
+        "en"
+      ],
+      "approval_required" : false,
+      "title" : "Pixelfed AU",
+      "thumbnail" : "https://raw.githubusercontent.com/VernissageApp/Home/main/thumbnails/02f6d26a-2290-4717-9a0a-e29e7200d325.jpg",
+      "contact_account" : {
+        "id" : "486401959767056385",
+        "followers_count" : 165,
+        "acct" : "PixelfedAUAdmin",
+        "avatar_static" : "https://s3.ap-southeast-2.wasabisys.com/pixelfedau/cache/avatars/486401959767056385/avatar_xnmofg.jpg",
+        "discoverable" : true,
+        "created_at" : "2022-10-14T05:07:44.000000Z",
+        "following_count" : 16,
+        "url" : "https://pixelfed.au/PixelfedAUAdmin",
+        "statuses_count" : 3,
+        "avatar" : "https://s3.ap-southeast-2.wasabisys.com/pixelfedau/cache/avatars/486401959767056385/avatar_xnmofg.jpg",
+        "header" : "https://pixelfed.au/storage/headers/missing.png",
+        "display_name" : "Pixelfed dot AU Admin",
+        "locked" : false,
+        "username" : "PixelfedAUAdmin",
+        "group" : false,
+        "bot" : false,
+        "header_static" : "https://pixelfed.au/storage/headers/missing.png"
+      },
+      "registrations" : true
+    },
+    {
+      "description" : "Argazki partekatze euskaldun, libre eta federatua",
+      "rules" : [
+        {
+          "id" : "1",
+          "text" : "Pixelfed.eus euskaraz bizi da. Ahal bezain beste euskara erabili."
+        },
+        {
+          "id" : "2",
+          "text" : "Debekatuak daude: faxismoa, arrazakeria, sexismoa, xenofobia, homofobia, transfobia."
+        },
+        {
+          "id" : "3",
+          "text" : "Ez inor iraindu edo jazarri."
+        }
+      ],
+      "stats" : {
+        "domain_count" : 523,
+        "user_count" : 406,
+        "status_count" : 6787
+      },
+      "version" : "2.7.2 (compatible; Pixelfed 0.11.5)",
+      "uri" : "pixelfed.eus",
+      "short_description" : "Pixelfed.eus - Argazki partekatze euskaldun, libre eta federatua",
+      "languages" : [
+        "eu"
+      ],
+      "approval_required" : false,
+      "title" : "Pixelfed.eus",
+      "thumbnail" : "https://raw.githubusercontent.com/VernissageApp/Home/main/thumbnails/499ba86a-6473-425a-a43d-be048c7f9051.jpg",
+      "contact_account" : {
+        "id" : "1",
+        "followers_count" : 138,
+        "acct" : "urtzai",
+        "avatar_static" : "https://pixelfed.eus/storage/avatars/000/000/000/000/000/000/1/n8g42Zd93sKMycy1wWbM_avatar.jpg?v=5",
+        "discoverable" : true,
+        "created_at" : "2019-06-21T14:15:27.000000Z",
+        "following_count" : 38,
+        "url" : "https://pixelfed.eus/urtzai",
+        "statuses_count" : 75,
+        "avatar" : "https://pixelfed.eus/storage/avatars/000/000/000/000/000/000/1/n8g42Zd93sKMycy1wWbM_avatar.jpg?v=5",
+        "header" : "https://pixelfed.eus/storage/headers/missing.png",
+        "display_name" : "Urtzi Odriozola Lizaso",
+        "locked" : false,
+        "username" : "urtzai",
+        "group" : false,
+        "bot" : false,
+        "header_static" : "https://pixelfed.eus/storage/headers/missing.png"
+      },
+      "registrations" : true
+    },
+    {
+      "description" : "Dieser Server steht im Bachgau, einer Region im bayrischen Untermain, zwischen Aschaffenburg und Frankfurt.\r\nWir möchten alle Menschen, Vereinen und Institutionen sowie Behörden, aus dem Bachgau, dem Stadt und Landkreis Aschaffenburg und darüber hinaus einladen, ein Teil unserer Gemeinschaft zu werden. Wir bieten eine schnelle und offene Kommunikationsplattform im Fediverse, abseits der kommerziellen Datenkraken. So wie unser Knoten ist das ganze Fediverse werbefrei, frei von Tracking und respektiert Eure Privatsphäre.",
+      "rules" : [
+        {
+          "id" : "1",
+          "text" : "Keine Pornografie"
+        },
+        {
+          "id" : "2",
+          "text" : "Nur Bilder und Videos and denen du die Rechte hast"
+        },
+        {
+          "id" : "3",
+          "text" : "Keine Rassistischen oder Sexistischen Bilder und Kommentare"
+        },
+        {
+          "id" : "4",
+          "text" : "Keine verbotenen Symbole"
+        }
+      ],
+      "stats" : {
+        "domain_count" : 619,
+        "user_count" : 246,
+        "status_count" : 2160
+      },
+      "version" : "2.7.2 (compatible; Pixelfed 0.11.5)",
+      "uri" : "pixelfed.bachgau.social",
+      "short_description" : "Dieser Server steht im Bachgau, einer Region im bayrischen Untermain, zwischen Aschaffenburg und Frankfurt.\r\nWir möchten alle Menschen, Vereinen und Institutionen sowie Behörden, aus dem Bachgau, dem Stadt und Landkreis Aschaffenburg und darüber hinaus einladen, ein Teil unserer Gemeinschaft zu werden.",
+      "languages" : [
+        "de"
+      ],
+      "approval_required" : false,
+      "title" : "Pixelfed Bachgau.Social",
+      "thumbnail" : "https://raw.githubusercontent.com/VernissageApp/Home/main/thumbnails/f1a8a9e4-77d6-4915-94c4-976ab1f0da03.jpg",
+      "contact_account" : {
+        "id" : "350936468018880513",
+        "followers_count" : 33,
+        "acct" : "olaf",
+        "avatar_static" : "https://pixelfed.bachgau.social/storage/avatars/035/093/646/801/888/051/3/qEndfpSVREJZks6kOD35_avatar.png?v=3",
+        "discoverable" : true,
+        "created_at" : "2021-10-05T09:36:14.000000Z",
+        "following_count" : 27,
+        "url" : "https://pixelfed.bachgau.social/olaf",
+        "statuses_count" : 133,
+        "avatar" : "https://pixelfed.bachgau.social/storage/avatars/035/093/646/801/888/051/3/qEndfpSVREJZks6kOD35_avatar.png?v=3",
+        "header" : "https://pixelfed.bachgau.social/storage/headers/missing.png",
+        "display_name" : "Olaf auf Pixelfed",
+        "locked" : false,
+        "username" : "olaf",
+        "group" : false,
+        "bot" : false,
+        "header_static" : "https://pixelfed.bachgau.social/storage/headers/missing.png"
+      },
+      "registrations" : true
+    },
+    {
+      "description" : "Sdilejte fotografie  s přáteli, to vše na platformě vlastněné komunitou Arch Linux CZ.",
+      "rules" : [
+        {
+          "id" : "1",
+          "text" : "No harrasment, no stalking, no doxxing"
+        },
+        {
+          "id" : "2",
+          "text" : "No racism or relativization of racism."
+        },
+        {
+          "id" : "3",
+          "text" : "No sexism or relativization of sexism."
+        },
+        {
+          "id" : "4",
+          "text" : "No xenophobia or relativization of xenophobia."
+        },
+        {
+          "id" : "5",
+          "text" : "No discriminating against gender identities or sexual orientations, or relativizing them."
+        },
+        {
+          "id" : "6",
+          "text" : "No advertising."
+        },
+        {
+          "id" : "7",
+          "text" : "No intentionally misleading content (including new/alt-right conspiracy theories or scams like cryptocurrencies)."
+        },
+        {
+          "id" : "8",
+          "text" : "No content that violates the laws of the Czech Republik"
+        }
+      ],
+      "stats" : {
+        "domain_count" : 854,
+        "user_count" : 240,
+        "status_count" : 2561
+      },
+      "version" : "2.7.2 (compatible; Pixelfed 0.11.5)",
+      "uri" : "pixelfed.cz",
+      "short_description" : "Pixelfed.cz je platforma pro sdílení obrázků, etická alternativa k centralizovaným platformám.",
+      "languages" : [
+        "en"
+      ],
+      "approval_required" : false,
+      "title" : "Pixelfed",
+      "thumbnail" : "https://raw.githubusercontent.com/VernissageApp/Home/main/thumbnails/27a04aa5-3ca7-4a16-94ae-c8a247080080.jpg",
+      "contact_account" : {
+        "id" : "441194050239729665",
+        "followers_count" : 60,
+        "acct" : "archos",
+        "avatar_static" : "https://pixelfed.cz/storage/avatars/441194050239729665/gc4s7i.jpg?v=2",
+        "discoverable" : true,
+        "created_at" : "2022-06-11T11:07:38.000000Z",
+        "following_count" : 77,
+        "url" : "https://pixelfed.cz/archos",
+        "statuses_count" : 54,
+        "avatar" : "https://pixelfed.cz/storage/avatars/441194050239729665/gc4s7i.jpg?v=2",
+        "header" : "https://pixelfed.cz/storage/headers/missing.png",
+        "display_name" : "Archos",
+        "locked" : false,
+        "username" : "archos",
+        "group" : false,
+        "bot" : false,
+        "header_static" : "https://pixelfed.cz/storage/headers/missing.png"
+      },
+      "email" : "archos@arch-linux.cz",
+      "registrations" : true
+    },
+    {
+      "description" : "Pixelfed is an image sharing platform, an ethical alternative to centralized platforms.",
+      "rules" : [
+        {
+          "id" : "1",
+          "text" : "No racism, sexism, homophobia, transphobia, xenophobia, or casteism"
+        },
+        {
+          "id" : "2",
+          "text" : "No incitement of violence or promotion of violent ideologies"
+        },
+        {
+          "id" : "3",
+          "text" : "No harassment, dogpiling or doxxing of other users"
+        },
+        {
+          "id" : "4",
+          "text" : "Sexually explicit or violent media must be marked as sensitive when posting"
+        },
+        {
+          "id" : "5",
+          "text" : "No content illegal in germany"
+        }
+      ],
+      "stats" : {
+        "domain_count" : 4235,
+        "user_count" : 195,
+        "status_count" : 82233
+      },
+      "version" : "2.7.2 (compatible; Pixelfed 0.11.5)",
+      "uri" : "pixelfed.automat.click",
+      "short_description" : "Pixelfed is an image sharing platform, an ethical alternative to centralized platforms.",
+      "languages" : [
+        "en"
+      ],
+      "approval_required" : false,
+      "title" : "pixelfed.automat.click",
+      "thumbnail" : "https://raw.githubusercontent.com/VernissageApp/Home/main/thumbnails/350c0b1b-bc78-4d42-99d6-d1a46ef3986a.jpg",
+      "contact_account" : {
+        "id" : "236795226935660544",
+        "followers_count" : 506,
+        "acct" : "billyidl",
+        "avatar_static" : "https://pixelfed.automat.click/storage/avatars/023/679/522/693/566/054/4/JpS6qVdUQE0ywW21QJTF_avatar.png?v=14",
+        "discoverable" : true,
+        "created_at" : "2020-11-24T10:19:41.000000Z",
+        "following_count" : 2243,
+        "url" : "https://pixelfed.automat.click/billyidl",
+        "statuses_count" : 600,
+        "avatar" : "https://pixelfed.automat.click/storage/avatars/023/679/522/693/566/054/4/JpS6qVdUQE0ywW21QJTF_avatar.png?v=14",
+        "header" : "https://pixelfed.automat.click/storage/headers/missing.png",
+        "display_name" : "billyidle :pixelfed:",
+        "locked" : false,
+        "username" : "billyidl",
+        "group" : false,
+        "bot" : false,
+        "header_static" : "https://pixelfed.automat.click/storage/headers/missing.png"
+      },
+      "email" : "pixelfed@automat.click",
+      "registrations" : true
+    },
+    {
+      "description" : "Pixelfed is an image sharing platform, an ethical alternative to centralized platforms.",
+      "rules" : [
+        {
+          "id" : "1",
+          "text" : "Sexually explicit or violent media must be marked as sensitive when posting."
+        },
+        {
+          "id" : "2",
+          "text" : "No racism, sexism, homophobia, transphobia, xenophobia, or casteism."
+        },
+        {
+          "id" : "3",
+          "text" : "No incitement of violence or promotion of violent ideologies."
+        },
+        {
+          "id" : "4",
+          "text" : "No illegal content."
+        }
+      ],
+      "stats" : {
+        "domain_count" : 2304,
+        "user_count" : 330,
+        "status_count" : 69192
+      },
+      "version" : "2.7.2 (compatible; Pixelfed 0.11.4)",
+      "uri" : "gram.social",
+      "short_description" : "A social platform for sharing photos, videos, GIFs and much more!",
+      "languages" : [
+        "en"
+      ],
+      "approval_required" : false,
+      "title" : "Gram",
+      "thumbnail" : "https://raw.githubusercontent.com/VernissageApp/Home/main/thumbnails/b9d40748-d3d2-4af9-9247-5f58096cd019.jpg",
+      "contact_account" : {
+        "id" : "514217370519695361",
+        "followers_count" : 204,
+        "acct" : "stux",
+        "avatar_static" : "https://gram.social/storage/avatars/051/421/737/051/969/536/1/bU5rysG0Yf0N0onL2AMR_avatar.jpg?v=3",
+        "discoverable" : true,
+        "created_at" : "2022-12-29T23:16:14.000000Z",
+        "following_count" : 52,
+        "url" : "https://gram.social/stux",
+        "statuses_count" : 16,
+        "avatar" : "https://gram.social/storage/avatars/051/421/737/051/969/536/1/bU5rysG0Yf0N0onL2AMR_avatar.jpg?v=3",
+        "header" : "https://gram.social/storage/headers/missing.png",
+        "display_name" : "stux",
+        "locked" : false,
+        "username" : "stux",
+        "group" : false,
+        "bot" : false,
+        "header_static" : "https://gram.social/storage/headers/missing.png"
+      },
+      "email" : "info@gram.social",
+      "registrations" : true
+    },
+    {
+      "description" : "NixOrigin is an ethical alternative to Instagram. No Ads, No Tracking,  No Kidding. Just Share • Connect and Explore.",
+      "rules" : [
+        {
+          "id" : "1",
+          "text" : "No harassment, dogpiling or doxxing of other users."
+        },
+        {
+          "id" : "2",
+          "text" : "No incitement of violence or promotion of violent ideologies"
+        },
+        {
+          "id" : "3",
+          "text" : "No racism, sexism, discrimination against gender and sexual minorities, ableism, fatmisia, xenophobia, islamophobia and/or violent nationalism, or the advocation of all of the above."
+        },
+        {
+          "id" : "4",
+          "text" : "You may not post, threaten to post, or encourage others to post anyone's private information without their express permission"
+        },
+        {
+          "id" : "5",
+          "text" : "You may not violate the intellectual property rights, including copyrights and trademarks of others."
+        },
+        {
+          "id" : "6",
+          "text" : "You must respect everyone regardless of their gender, age, sexual orientation, ethnicity, religion, color or culture."
+        },
+        {
+          "id" : "7",
+          "text" : "Show kindness and compassion towards others, and try to understand their perspectives and experiences."
+        },
+        {
+          "id" : "8",
+          "text" : "Offer help and assistance to those who need it, whether it's a listening ear, a shoulder to cry on, or a practical solution to a problem."
+        },
+        {
+          "id" : "9",
+          "text" : "Be accountable for your actions and take responsibility for your mistakes."
+        },
+        {
+          "id" : "10",
+          "text" : "Do not engage in spamming."
+        },
+        {
+          "id" : "11",
+          "text" : "Sexually explicit or violent media must be marked as sensitive when posting"
+        }
+      ],
+      "stats" : {
+        "domain_count" : 2411,
+        "user_count" : 265,
+        "status_count" : 46147
+      },
+      "version" : "2.7.2 (compatible; Pixelfed 0.11.5)",
+      "uri" : "nixorigin.one",
+      "short_description" : "NixOrigin is an ethical alternative to Instagram. No Ads, No Tracking,  No Kidding. Just Share • Connect and Explore.",
+      "languages" : [
+        "en"
+      ],
+      "approval_required" : false,
+      "title" : "NixOrigin",
+      "thumbnail" : "https://raw.githubusercontent.com/VernissageApp/Home/main/thumbnails/e961ad6a-7bb8-42c1-8b0e-aea654d4c52f.png",
+      "contact_account" : {
+        "id" : "499195805820977262",
+        "followers_count" : 26,
+        "acct" : "leonota",
+        "avatar_static" : "https://nixorigin.one/storage/avatars/049/919/580/582/097/726/2/WP5OkjJ0uGYcs5Q5jh7Y_avatar.png?v=9",
+        "discoverable" : true,
+        "created_at" : "2022-11-18T12:25:54.000000Z",
+        "following_count" : 30,
+        "url" : "https://nixorigin.one/leonota",
+        "statuses_count" : 18,
+        "avatar" : "https://nixorigin.one/storage/avatars/049/919/580/582/097/726/2/WP5OkjJ0uGYcs5Q5jh7Y_avatar.png?v=9",
+        "header" : "https://nixorigin.one/storage/headers/missing.png",
+        "display_name" : "Mitex Leo",
+        "locked" : false,
+        "username" : "leonota",
+        "group" : false,
+        "bot" : false,
+        "header_static" : "https://nixorigin.one/storage/headers/missing.png"
+      },
+      "email" : "hello@nixorigin.one",
+      "registrations" : true
+    },
+    {
+      "description" : "This is an instance dedicated to people who paint miniatures, enjoy tabletop games and other nerdy things - all creatures welcome.",
+      "rules" : [
+        {
+          "id" : "1",
+          "text" : "Don't be an asshole."
+        },
+        {
+          "id" : "2",
+          "text" : "Seriously, don't be an asshole."
+        },
+        {
+          "id" : "3",
+          "text" : "Being an asshole includes, but is not limited to harassment, posting content that promotes the oppression of others because of who they are, who they love, what they believe in (Fascism is not a belief, it's a crime.), .. like, you know what being an asshole is. Don't be one."
+        },
+        {
+          "id" : "4",
+          "text" : "If you decide to be an asshole, there will be consequences."
+        },
+        {
+          "id" : "5",
+          "text" : "If your assholery breaks the (German or Austrian) law, these consequences might include legal action."
+        },
+        {
+          "id" : "6",
+          "text" : "So, don't be an asshole. Be excellent to each other."
+        }
+      ],
+      "stats" : {
+        "domain_count" : 424,
+        "user_count" : 156,
+        "status_count" : 2714
+      },
+      "version" : "2.7.2 (compatible; Pixelfed 0.11.4)",
+      "uri" : "miniature.photography",
+      "short_description" : "This is an instance dedicated to people who paint miniatures, enjoy tabletop games and other nerdy things - all creatures welcome.",
+      "languages" : [
+        "en"
+      ],
+      "approval_required" : false,
+      "title" : "Miniature Photography",
+      "thumbnail" : "https://raw.githubusercontent.com/VernissageApp/Home/main/thumbnails/792adac4-d72c-4250-b63c-ba72f62e972f.jpg",
+      "contact_account" : {
+        "id" : "494934420749705217",
+        "followers_count" : 41,
+        "acct" : "ari",
+        "avatar_static" : "https://miniature.photography/storage/avatars/049/493/442/074/970/521/7/1E54JNnjyP54CQxaorKz_avatar.png?v=2",
+        "discoverable" : true,
+        "created_at" : "2022-11-06T18:12:41.000000Z",
+        "following_count" : 22,
+        "url" : "https://miniature.photography/ari",
+        "statuses_count" : 31,
+        "avatar" : "https://miniature.photography/storage/avatars/049/493/442/074/970/521/7/1E54JNnjyP54CQxaorKz_avatar.png?v=2",
+        "header" : "https://miniature.photography/storage/headers/missing.png",
+        "display_name" : "ari",
+        "locked" : false,
+        "username" : "ari",
+        "group" : false,
+        "bot" : false,
+        "header_static" : "https://miniature.photography/storage/headers/missing.png"
+      },
+      "email" : "pixelfed@miniature.photography",
+      "registrations" : true
+    },
+    {
+      "description" : "Fedifilm.art is an image sharing platform (Instagram alternative) dedicated to analog photography.",
+      "rules" : [
+        {
+          "id" : "1",
+          "text" : "Post only analogical photography"
+        },
+        {
+          "id" : "2",
+          "text" : "Always specifiy camera and film used"
+        },
+        {
+          "id" : "3",
+          "text" : "Sexually explicit or violent media must be marked as sensitive when posting"
+        },
+        {
+          "id" : "4",
+          "text" : "No racism, sexism, homophobia, transphobia, xenophobia, or casteism"
+        },
+        {
+          "id" : "5",
+          "text" : "No incitement of violence or promotion of violent ideologies"
+        },
+        {
+          "id" : "6",
+          "text" : "No harassment, dogpiling or doxxing of other users"
+        }
+      ],
+      "stats" : {
+        "domain_count" : 165,
+        "user_count" : 157,
+        "status_count" : 159
+      },
+      "version" : "2.7.2 (compatible; Pixelfed 0.11.5)",
+      "uri" : "fedifilm.art",
+      "short_description" : "Fedifilm.art is an image sharing platform (Instagram alternative) dedicated to analog photography.",
+      "languages" : [
+        "en"
+      ],
+      "approval_required" : false,
+      "title" : "Pixelfed",
+      "thumbnail" : "https://raw.githubusercontent.com/VernissageApp/Home/main/thumbnails/86b30d61-adba-494a-853e-6f306d5004cc.jpg",
+      "contact_account" : {
+        "id" : "496969469588238337",
+        "followers_count" : 58,
+        "acct" : "atlza",
+        "avatar_static" : "https://fedifilm.s3.eu-west-3.amazonaws.com/public/avatars/049/696/946/958/823/833/7/QMdj4lt8RD1VMZ0jS8Cl_avatar.jpg",
+        "discoverable" : true,
+        "created_at" : "2022-11-12T07:59:14.000000Z",
+        "following_count" : 17,
+        "url" : "https://fedifilm.art/atlza",
+        "statuses_count" : 15,
+        "avatar" : "https://fedifilm.s3.eu-west-3.amazonaws.com/public/avatars/049/696/946/958/823/833/7/QMdj4lt8RD1VMZ0jS8Cl_avatar.jpg",
+        "header" : "https://fedifilm.art/storage/headers/missing.png",
+        "display_name" : "Guillaume",
+        "locked" : false,
+        "username" : "atlza",
+        "group" : false,
+        "bot" : false,
+        "header_static" : "https://fedifilm.art/storage/headers/missing.png"
+      },
+      "registrations" : true
+    },
+    {
+      "short_description" : "Fedipix.de ist eine Bilder-Plattform für alle. (Es gibt aber Regeln!)",
+      "approval_required" : false,
+      "registrations" : true,
+      "title" : "Fedipix.de Instanz",
+      "stats" : {
+        "domain_count" : 31,
+        "user_count" : 113,
+        "status_count" : 100
+      },
+      "contact_account" : {
+        "id" : "500268612889714689",
+        "followers_count" : 88,
+        "acct" : "thk",
+        "avatar_static" : "https://fedipix.de/files/public/avatars/050/026/861/288/971/468/9/l2U7f2rZI2jGwKzirEW9_avatar.jpg?v=9",
+        "discoverable" : true,
+        "created_at" : "2022-11-21T11:28:51.000000Z",
+        "following_count" : 1,
+        "url" : "https://fedipix.de/thk",
+        "statuses_count" : 7,
+        "avatar" : "https://fedipix.de/files/public/avatars/050/026/861/288/971/468/9/l2U7f2rZI2jGwKzirEW9_avatar.jpg?v=9",
+        "header" : "https://fedipix.de/storage/headers/missing.png",
+        "display_name" : "Thomas Kramer",
+        "locked" : false,
+        "username" : "thk",
+        "group" : false,
+        "bot" : false,
+        "header_static" : "https://fedipix.de/storage/headers/missing.png"
+      },
+      "version" : "2.7.2 (compatible; Pixelfed 0.11.4)",
+      "description" : "Fedipix.de soll eine freie und alternative Plattform sein. Basierend auf Pixelfed soll es insbesondere eine Datensparsame Alternative zu Instagram darstellen. Wir betreiben diese Seite Werbe- und Kostenfrei und tracken unsere Nutzer nicht. Das ist insbesondere deshalb schon nicht möglich, da wir keine Logfiles speichern.\r\n<br>\r\nDieser Service wird bereitgestellt von:<br>\r\n<br>\r\nTMKIS Internet Services<br>\r\nScanbox #00478<br>\r\nEhrenbergstr. 16a<br>\r\n10245 Berlin<br>\r\nE-Mail: mail@fedipix.de<br>",
+      "rules" : [
+        {
+          "id" : "1",
+          "text" : "Poste keine pornographischen oder sexualisierten Inhalte. Dazu gehören auch Witze und Kommentare."
+        },
+        {
+          "id" : "2",
+          "text" : "Sei immer freundlich und höflich. Behandle andere mit Respekt."
+        },
+        {
+          "id" : "3",
+          "text" : "Nochmal ganz deutlich: Wir dulden keine nationalistische Propaganda, keine Nazi-Symbolik und keine Förderung der Ideologie des Nationalsozialismus!"
+        },
+        {
+          "id" : "4",
+          "text" : "Veröffentliche keinen Spam oder kommerzielle Werbung. Kommerzielle Werbung in diesem Zusammenhang bedeutet, wenn die veröffentlichten Inhalte keinen persönlichen Bezug aufweisen und eindeutig dazu gedacht sind, direkt oder indirekt Geld zu erwirtschaften."
+        },
+        {
+          "id" : "5",
+          "text" : "Keine Killerphrasen, Scheinargumente, schwarze Rhetorik oder Sophismus"
+        },
+        {
+          "id" : "6",
+          "text" : "Die Nutzung oder Befürwortung von rassistischer, sexistischer, homophober, transphober, behindertenfeindlicher und anderweitig diskriminierender oder hasserfüllter Sprache wird nicht geduldet"
+        },
+        {
+          "id" : "7",
+          "text" : "Verharmlosende oder gutheißende Inhalte zu Weißer Vorherrschaft, Antisemitismus, Transphobie oder anderen hasserfüllten Ideologien werden nicht geduldet."
+        },
+        {
+          "id" : "8",
+          "text" : "Halte dich an die in Deutschland geltenden Gesetze (verbietet u.a. auch gewaltverherrlichende Inhalte)."
+        },
+        {
+          "id" : "9",
+          "text" : "Nachgewiesene Falschinformationen/Fakenews (inkl. Verschwörungstheorien) sind hier unerwünscht"
+        }
+      ],
+      "uri" : "fedipix.de",
+      "languages" : [
+        "de"
+      ]
+    },
+    {
+      "description" : "Pixelfed is an image sharing platform, an ethical alternative to centralized platforms.",
+      "rules" : [
+        {
+          "id" : "1",
+          "text" : "Nichts Illegales nach deutschem Recht * Nada ilegal según la legislación alemana * Nothing illegal under German law"
+        }
+      ],
+      "stats" : {
+        "domain_count" : 2122,
+        "user_count" : 58,
+        "status_count" : 11016
+      },
+      "version" : "2.7.2 (compatible; Pixelfed 0.11.4)",
+      "uri" : "pixel.jabbxi.de",
+      "short_description" : "Pixelfed is an image sharing platform, an ethical alternative to centralized platforms.",
+      "languages" : [
+        "de"
+      ],
+      "approval_required" : false,
+      "title" : "Pixelfed@jabbxi",
+      "thumbnail" : "https://raw.githubusercontent.com/VernissageApp/Home/main/thumbnails/90ea36ca-632f-492a-94b9-c410e194b68b.jpg",
+      "contact_account" : {
+        "id" : "352558579352522753",
+        "followers_count" : 42,
+        "acct" : "xi",
+        "avatar_static" : "https://pixel.jabbxi.de/storage/avatars/035/255/857/935/252/275/3/wYhui9KUvhJ74m8ayO0A_avatar.jpg?v=1",
+        "discoverable" : true,
+        "created_at" : "2021-10-09T21:01:55.000000Z",
+        "following_count" : 86,
+        "url" : "https://pixel.jabbxi.de/xi",
+        "statuses_count" : 45,
+        "avatar" : "https://pixel.jabbxi.de/storage/avatars/035/255/857/935/252/275/3/wYhui9KUvhJ74m8ayO0A_avatar.jpg?v=1",
+        "header" : "https://pixel.jabbxi.de/storage/headers/missing.png",
+        "display_name" : "xi",
+        "locked" : false,
+        "username" : "xi",
+        "group" : false,
+        "bot" : false,
+        "header_static" : "https://pixel.jabbxi.de/storage/headers/missing.png"
+      },
+      "email" : "xi@jabbxi.de",
+      "registrations" : false
+    },
+    {
+      "description" : "Social Pixels is a general purpose pixelfed instance hosted in a Tier 3+ datacenter in germany with focus on privacy and performance. This instance has livestreams enabled.",
+      "rules" : [
+        {
+          "id" : "1",
+          "text" : "Violent or Sexually explicit media must be marked as sensitive when posting"
+        },
+        {
+          "id" : "2",
+          "text" : "Racism or relativization of racism is prohibited"
+        },
+        {
+          "id" : "3",
+          "text" : "Sexism or relativization of sexism is prohibited"
+        },
+        {
+          "id" : "4",
+          "text" : "Discriminating against gender identities or sexual orientations is prohibited"
+        },
+        {
+          "id" : "5",
+          "text" : "No content that violates applicable laws of the Federal Republic of Germany"
+        },
+        {
+          "id" : "6",
+          "text" : "Stalking and harrasment is prohibited"
+        },
+        {
+          "id" : "7",
+          "text" : "Respect the privacy of others"
+        },
+        {
+          "id" : "8",
+          "text" : "Do not spam"
+        }
+      ],
+      "stats" : {
+        "domain_count" : 44,
+        "user_count" : 78,
+        "status_count" : 83
+      },
+      "version" : "2.7.2 (compatible; Pixelfed 0.11.4)",
+      "uri" : "socialpixels.xyz",
+      "short_description" : "Social Pixels is a general purpose pixelfed instance hosted in germany",
+      "languages" : [
+        "en"
+      ],
+      "approval_required" : false,
+      "title" : "Social Pixels",
+      "thumbnail" : "https://raw.githubusercontent.com/VernissageApp/Home/main/thumbnails/13f3e90c-08bb-48e2-acec-a1b4edb307ec.jpg",
+      "contact_account" : {
+        "id" : "504367648343212033",
+        "followers_count" : 11,
+        "acct" : "vanlueckn",
+        "avatar_static" : "https://socialpixels.xyz/storage/avatars/050/436/764/834/321/203/3/SuZ8otC5dHhzF1k3k2e9_avatar.png?v=4",
+        "discoverable" : true,
+        "created_at" : "2022-12-02T18:56:58.000000Z",
+        "following_count" : 5,
+        "url" : "https://socialpixels.xyz/vanlueckn",
+        "statuses_count" : 4,
+        "avatar" : "https://socialpixels.xyz/storage/avatars/050/436/764/834/321/203/3/SuZ8otC5dHhzF1k3k2e9_avatar.png?v=4",
+        "header" : "https://socialpixels.xyz/storage/headers/missing.png",
+        "display_name" : "Nils van Lück",
+        "locked" : false,
+        "username" : "vanlueckn",
+        "group" : false,
+        "bot" : false,
+        "header_static" : "https://socialpixels.xyz/storage/headers/missing.png"
+      },
+      "email" : "nils@vanlueck.dev",
+      "registrations" : true
+    },
+    {
+      "description" : "Pixelfed is an image sharing platform, an ethical alternative to centralized platforms.",
+      "rules" : [
+        {
+          "id" : "1",
+          "text" : "Sexually explicit or violent media must be marked as sensitive when posting"
+        },
+        {
+          "id" : "2",
+          "text" : "No racism, sexism, homophobia, transphobia, xenophobia, or casteism"
+        },
+        {
+          "id" : "3",
+          "text" : "No incitement of violence or promotion of violent ideologies"
+        },
+        {
+          "id" : "4",
+          "text" : "No harassment, dogpiling or doxxing of other users"
+        },
+        {
+          "id" : "5",
+          "text" : "No content illegal in United States"
+        },
+        {
+          "id" : "6",
+          "text" : "Promotion of any drugs is not allowed and accounts will be deleted without notification."
+        }
+      ],
+      "stats" : {
+        "domain_count" : 367,
+        "user_count" : 74,
+        "status_count" : 3065
+      },
+      "version" : "2.7.2 (compatible; Pixelfed 0.11.5)",
+      "uri" : "pixel.mamutut.space",
+      "short_description" : "Pixelfed is an image sharing platform, an ethical alternative to centralized platforms.",
+      "languages" : [
+        "en"
+      ],
+      "approval_required" : false,
+      "title" : "Pixel.Mamutut.space",
+      "thumbnail" : "https://raw.githubusercontent.com/VernissageApp/Home/main/thumbnails/e7400dae-93ac-4068-a9c7-884fc17c7541.jpg",
+      "contact_account" : {
+        "id" : "498462686728589317",
+        "followers_count" : 9,
+        "acct" : "mraiur",
+        "avatar_static" : "https://pixel.mamutut.space/storage/avatars/049/846/268/672/858/931/7/JHMw8v7GhI1U0OFOrwmu_avatar.jpg?v=2",
+        "discoverable" : true,
+        "created_at" : "2022-11-16T11:52:45.000000Z",
+        "following_count" : 9,
+        "url" : "https://pixel.mamutut.space/mraiur",
+        "statuses_count" : 4,
+        "avatar" : "https://pixel.mamutut.space/storage/avatars/049/846/268/672/858/931/7/JHMw8v7GhI1U0OFOrwmu_avatar.jpg?v=2",
+        "header" : "https://pixel.mamutut.space/storage/headers/missing.png",
+        "display_name" : "mraiur",
+        "locked" : false,
+        "username" : "mraiur",
+        "group" : false,
+        "bot" : false,
+        "header_static" : "https://pixel.mamutut.space/storage/headers/missing.png"
+      },
+      "email" : "mraiur@mamutut.space",
+      "registrations" : true
+    },
+    {
+      "description" : "Pixelfed is an image sharing platform, an ethical alternative to centralized platforms. Bot is not allowed, and you can share things that is legal in Singapore.",
+      "rules" : [
+        {
+          "id" : "1",
+          "text" : "NSFW is ok as long as tagged properly. Use media description, details, and CW liberally. LGBTQIA+ Friendly - Full Support."
+        }
+      ],
+      "stats" : {
+        "domain_count" : 6,
+        "user_count" : 34,
+        "status_count" : 190
+      },
+      "version" : "2.7.2 (compatible; Pixelfed 0.11.4)",
+      "uri" : "pixelfed.fioverse.zone",
+      "short_description" : "Pixelfed is an image sharing platform, an ethical alternative to centralized platforms. Bot is not allowed, and you can share things that is legal in Singapore.",
+      "languages" : [
+        "en"
+      ],
+      "approval_required" : false,
+      "title" : "Fioverse's Pixelfed",
+      "thumbnail" : "https://raw.githubusercontent.com/VernissageApp/Home/main/thumbnails/b176b0ea-7ea8-442b-a1ce-4a10ddac339e.png",
+      "contact_account" : {
+        "id" : "499242338171482113",
+        "followers_count" : 1,
+        "acct" : "FreneticLiberty",
+        "avatar_static" : "https://pixelfed.fioverse.zone/storage/avatars/049/924/233/817/148/211/3/qpvGKopX9aXzoq8I7kqb_avatar.jpg?v=5",
+        "discoverable" : true,
+        "created_at" : "2022-11-18T15:30:48.000000Z",
+        "following_count" : 5,
+        "url" : "https://pixelfed.fioverse.zone/FreneticLiberty",
+        "statuses_count" : 7,
+        "avatar" : "https://pixelfed.fioverse.zone/storage/avatars/049/924/233/817/148/211/3/qpvGKopX9aXzoq8I7kqb_avatar.jpg?v=5",
+        "header" : "https://pixelfed.fioverse.zone/storage/headers/missing.png",
+        "display_name" : "Fio",
+        "locked" : false,
+        "username" : "FreneticLiberty",
+        "group" : false,
+        "bot" : false,
+        "header_static" : "https://pixelfed.fioverse.zone/storage/headers/missing.png"
+      },
+      "registrations" : true
+    },
+    {
+      "description" : "Pixelfed is an image sharing platform, an ethical alternative to centralized platforms.",
+      "rules" : [
+        {
+          "id" : "1",
+          "text" : "Bots must be clearly marked as bots and MUST be opt-in."
+        },
+        {
+          "id" : "2",
+          "text" : "Commercial use of this service is prohibited without specific written permission first. Commercial accounts will be deleted without warning."
+        },
+        {
+          "id" : "3",
+          "text" : "Be civil. Treat others with respect."
+        },
+        {
+          "id" : "4",
+          "text" : "Abuse will not be tolerated in any form."
+        },
+        {
+          "id" : "5",
+          "text" : "The admins have final say. Our instance. Our rules."
+        },
+        {
+          "id" : "6",
+          "text" : "Posted images should be decribed with alt-text to ensure a good experience for all."
+        },
+        {
+          "id" : "7",
+          "text" : "Use content warnings when appropriate; encourage others to do so. It is Fediverse culture."
+        },
+        {
+          "id" : "8",
+          "text" : "No racism, sexism, homophobia, transphobia, xenophobia, or casteism."
+        },
+        {
+          "id" : "9",
+          "text" : "No content illegal in Queensland Australia, or California United States (our data centre jurisdictions) is permitted."
+        }
+      ],
+      "stats" : {
+        "domain_count" : 788,
+        "user_count" : 41,
+        "status_count" : 121
+      },
+      "version" : "2.7.2 (compatible; Pixelfed 0.11.4)",
+      "uri" : "pixel.artemai.art",
+      "short_description" : "Pixelfed is an image sharing platform, an ethical alternative to centralized platforms.",
+      "languages" : [
+        "en"
+      ],
+      "approval_required" : false,
+      "title" : "ARTemAI Pixelfed",
+      "thumbnail" : "https://raw.githubusercontent.com/VernissageApp/Home/main/thumbnails/b4ec30c4-a058-4354-8642-d2a7b59d792a.png",
+      "contact_account" : {
+        "id" : "494053964293517313",
+        "followers_count" : 96,
+        "acct" : "jared",
+        "avatar_static" : "https://pixel.artemai.art/storage/avatars/049/405/396/429/351/731/3/sjyj2DQTAkqm3jNEltsf_avatar.jpg?v=2",
+        "discoverable" : true,
+        "created_at" : "2022-11-04T07:54:04.000000Z",
+        "following_count" : 22,
+        "url" : "https://pixel.artemai.art/jared",
+        "statuses_count" : 43,
+        "avatar" : "https://pixel.artemai.art/storage/avatars/049/405/396/429/351/731/3/sjyj2DQTAkqm3jNEltsf_avatar.jpg?v=2",
+        "header" : "https://pixel.artemai.art/storage/headers/missing.png",
+        "display_name" : "Jared Quinn (AI Art)",
+        "locked" : false,
+        "username" : "jared",
+        "group" : false,
+        "bot" : false,
+        "header_static" : "https://pixel.artemai.art/storage/headers/missing.png"
+      },
+      "email" : "info@artemai.art",
+      "registrations" : true
+    },
+    {
+      "description" : "This is the sibling site of <a href='https://pleroma.anduin.net'>pleroma.anduin.net</a>.\r\n\r\nPlease see <a href='https://pleroma.anduin.net/about'>the About page</a> on <a href='https://pleroma.anduin.net'>pleroma.anduin.net</a>; the Terms of Service and Code of Conduct stated there apply also here.",
+      "rules" : [
+        {
+          "id" : "1",
+          "text" : "This service and the server it's on is privately owned and operated, and is neither affiliated with nor owned or controlled by any corporate entity."
+        },
+        {
+          "id" : "2",
+          "text" : "It is open to whomever I, or my appointed admins and moderators, agree to provide the service to."
+        },
+        {
+          "id" : "3",
+          "text" : "The use of the service is subject to the Code of Conduct (see 'terms' page) and a general expectation of decency, good faith, and absence of malice."
+        },
+        {
+          "id" : "4",
+          "text" : "I can, at any time, for any reason, and with no prior warning, terminate the service or individual accounts on it. (I'm not saying that I will, in fact I would hate to do so, but this is my \"exit clause\".)"
+        },
+        {
+          "id" : "5",
+          "text" : "The service is hosted in Oslo, Norway, and is subject to relevant local law regarding its operation. That said, I am not monitoring its content actively but am required to take action if made aware of content that, by law or otherwise, required my action."
+        },
+        {
+          "id" : "6",
+          "text" : "There is no guarantee of privacy for any content entering or leaving the system. The current Fediverse is not well suited for strict privacy-demanding use cases."
+        },
+        {
+          "id" : "7",
+          "text" : "I am making every effort to run a tight ship (and have done so since the late 90s), but nobody's perfect and no system is entirely secure."
+        },
+        {
+          "id" : "8",
+          "text" : "Do not post anything that you would not want me to see. I am root."
+        }
+      ],
+      "stats" : {
+        "domain_count" : 119,
+        "user_count" : 36,
+        "status_count" : 160
+      },
+      "version" : "2.7.2 (compatible; Pixelfed 0.11.5)",
+      "uri" : "pix.anduin.net",
+      "short_description" : "Anduin.net - Federated Pix",
+      "languages" : [
+        "en"
+      ],
+      "approval_required" : false,
+      "title" : "Pixelfed",
+      "thumbnail" : "https://raw.githubusercontent.com/VernissageApp/Home/main/thumbnails/25caff46-f5a1-41c9-b27f-79ec92a22c39.jpg",
+      "contact_account" : {
+        "id" : "515139097376215041",
+        "followers_count" : 9,
+        "acct" : "ltning",
+        "avatar_static" : "https://pix.anduin.net/storage/avatars/051/513/909/737/621/504/1/8jY6zM49OksCfhOTXNHM_avatar.jpg?v=2",
+        "discoverable" : true,
+        "created_at" : "2023-01-01T12:18:51.000000Z",
+        "following_count" : 5,
+        "url" : "https://pix.anduin.net/ltning",
+        "statuses_count" : 6,
+        "avatar" : "https://pix.anduin.net/storage/avatars/051/513/909/737/621/504/1/8jY6zM49OksCfhOTXNHM_avatar.jpg?v=2",
+        "header" : "https://pix.anduin.net/storage/headers/missing.png",
+        "display_name" : "Eirik Øverby",
+        "locked" : false,
+        "username" : "ltning",
+        "group" : false,
+        "bot" : false,
+        "header_static" : "https://pix.anduin.net/storage/headers/missing.png"
+      },
+      "registrations" : true
+    },
+    {
+      "description" : "Pixelfed is an image sharing platform, an ethical alternative to centralized platforms.",
+      "rules" : [
+        {
+          "id" : "1",
+          "text" : "This place is G or PG rated. Please see https://faf.social/about for Terms of Service (TOS). Behave."
+        },
+        {
+          "id" : "2",
+          "text" : "New users must have a profile so that it can be confirmed that a real person is behind the account. No exceptions. Blank accounts are deleted."
+        }
+      ],
+      "stats" : {
+        "domain_count" : 78,
+        "user_count" : 60,
+        "status_count" : 72
+      },
+      "version" : "2.7.2 (compatible; Pixelfed 0.11.4)",
+      "uri" : "faf.photos",
+      "short_description" : "Pixelfed is an image sharing platform, an ethical alternative to centralized platforms.",
+      "languages" : [
+        "en"
+      ],
+      "approval_required" : false,
+      "title" : "Faf Photos",
+      "thumbnail" : "https://raw.githubusercontent.com/VernissageApp/Home/main/thumbnails/0c74235e-2a7f-42c3-92e8-a9a00f566d7e.jpg",
+      "contact_account" : {
+        "id" : "510230739532296193",
+        "followers_count" : 1,
+        "acct" : "imklg",
+        "avatar_static" : "https://faf.photos/storage/avatars/051/023/073/953/229/619/3/wHulx4AuBlRkUZLvEGY6_avatar.jpg?v=2",
+        "discoverable" : true,
+        "created_at" : "2022-12-18T23:14:47.000000Z",
+        "following_count" : 1,
+        "url" : "https://faf.photos/imklg",
+        "statuses_count" : 13,
+        "avatar" : "https://faf.photos/storage/avatars/051/023/073/953/229/619/3/wHulx4AuBlRkUZLvEGY6_avatar.jpg?v=2",
+        "header" : "https://faf.photos/storage/headers/missing.png",
+        "display_name" : "Kelley Graham",
+        "locked" : false,
+        "username" : "imklg",
+        "group" : false,
+        "bot" : false,
+        "header_static" : "https://faf.photos/storage/headers/missing.png"
+      },
+      "registrations" : true
+    },
+    {
+      "description" : "GSI is an old acronym from friends of the past and present: Great Sources of Interests. A fitting acronym for a Pixelfed instance.\r\n\r\nThis instance is hosted and managed by @eitch. This instance is for friends and family.\r\n\r\nThis instance is hosted in Switzerland on a connection by ISP init7.",
+      "rules" : [
+        {
+          "id" : "1",
+          "text" : "No discrimination, including (but not limited to) racism, sexism, homophobia or transphobia."
+        },
+        {
+          "id" : "2",
+          "text" : "No explicit (NSFW) content without content warnings and/or sensitive media markers. Explicit content must not be used in user avatars or header images."
+        },
+        {
+          "id" : "3",
+          "text" : "No harassment of other users on this or other servers."
+        },
+        {
+          "id" : "4",
+          "text" : "No content illegal in Switzerland and the EU"
+        },
+        {
+          "id" : "5",
+          "text" : "No incitement of violence or promotion of violent ideologies."
+        },
+        {
+          "id" : "6",
+          "text" : "No disinformation regarding public health issues or political/military campaigns."
+        },
+        {
+          "id" : "7",
+          "text" : "No spam. This includes commercial advertising, promotional campaigns, and SEO."
+        },
+        {
+          "id" : "8",
+          "text" : "User must be at least 16 years old and have a residence in Switzerland"
+        },
+        {
+          "id" : "9",
+          "text" : "Inactive accounts will be deleted. Accounts are considered inactive if there is no activity during the last three months. An admin will contact you to see if your account is still active, if you don't respond in 3 days, the account is considered inactive and will be deleted."
+        },
+        {
+          "id" : "10",
+          "text" : "You must fill out your bio with a few details about yourself and add a profile photo."
+        }
+      ],
+      "stats" : {
+        "domain_count" : 504,
+        "user_count" : 21,
+        "status_count" : 6185
+      },
+      "version" : "2.7.2 (compatible; Pixelfed 0.11.5)",
+      "uri" : "pixels.gsi.li",
+      "short_description" : "Pixelfed is an image sharing platform, an ethical alternative to centralized platforms.",
+      "languages" : [
+        "en"
+      ],
+      "approval_required" : false,
+      "title" : "GSI Pixelfed",
+      "thumbnail" : "https://raw.githubusercontent.com/VernissageApp/Home/main/thumbnails/df529aed-24b4-468f-ae6b-8846f5a4a82a.png",
+      "contact_account" : {
+        "id" : "515861222046601228",
+        "followers_count" : 18,
+        "acct" : "eitch",
+        "avatar_static" : "https://pixels.gsi.li/storage/avatars/515861222046601228/waxak6.jpg?v=1",
+        "discoverable" : true,
+        "created_at" : "2023-01-03T12:08:19.000000Z",
+        "following_count" : 49,
+        "url" : "https://pixels.gsi.li/eitch",
+        "statuses_count" : 60,
+        "avatar" : "https://pixels.gsi.li/storage/avatars/515861222046601228/waxak6.jpg?v=1",
+        "header" : "https://pixels.gsi.li/storage/headers/missing.png",
+        "display_name" : "Robert von Burg",
+        "locked" : false,
+        "username" : "eitch",
+        "group" : false,
+        "bot" : false,
+        "header_static" : "https://pixels.gsi.li/storage/headers/missing.png"
+      },
+      "email" : "eitch@eitchnet.ch",
+      "registrations" : true
+    },
+    {
+      "description" : "We are a Pixelfed community dedicated to FFXIV players.",
+      "rules" : [
+        {
+          "id" : "1",
+          "text" : "No harrasment, no stalking, no doxxing"
+        },
+        {
+          "id" : "2",
+          "text" : "No racism or relativization of racism."
+        },
+        {
+          "id" : "3",
+          "text" : "No sexism or relativization of sexism."
+        },
+        {
+          "id" : "4",
+          "text" : "No xenophobia or relativization of xenophobia."
+        },
+        {
+          "id" : "5",
+          "text" : "No discriminating against gender identities or sexual orientations, or relativizing them."
+        },
+        {
+          "id" : "6",
+          "text" : "No advertising."
+        }
+      ],
+      "stats" : {
+        "domain_count" : 6,
+        "user_count" : 35,
+        "status_count" : 63
+      },
+      "version" : "2.7.2 (compatible; Pixelfed 0.11.5)",
+      "uri" : "eorzea.photos",
+      "short_description" : "We are a Pixelfed community dedicated to FFXIV players.",
+      "languages" : [
+        "en"
+      ],
+      "approval_required" : false,
+      "title" : "EorzeaPhotos",
+      "thumbnail" : "https://raw.githubusercontent.com/VernissageApp/Home/main/thumbnails/d48a3939-a4de-42a4-a630-e200e699985a.png",
+      "contact_account" : {
+        "id" : "499668747533463553",
+        "followers_count" : 1,
+        "acct" : "Syntafin",
+        "avatar_static" : "https://eorzea.photos/storage/avatars/049/966/874/753/346/355/3/fmCPIZ817a3IQ0sweFPM_avatar.png?v=2",
+        "discoverable" : true,
+        "created_at" : "2022-11-19T19:45:12.000000Z",
+        "following_count" : 6,
+        "url" : "https://eorzea.photos/Syntafin",
+        "statuses_count" : 12,
+        "avatar" : "https://eorzea.photos/storage/avatars/049/966/874/753/346/355/3/fmCPIZ817a3IQ0sweFPM_avatar.png?v=2",
+        "header" : "https://eorzea.photos/storage/headers/missing.png",
+        "display_name" : "Syntafin Konpaku",
+        "locked" : false,
+        "username" : "Syntafin",
+        "group" : false,
+        "bot" : false,
+        "header_static" : "https://eorzea.photos/storage/headers/missing.png"
+      },
+      "registrations" : true
+    }
+  ],
+  "serversUrl" : "https://pixelfed.org/servers"
+}
